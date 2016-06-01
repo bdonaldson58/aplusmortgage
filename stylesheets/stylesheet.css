@@ -68,3 +68,9 @@ body {
   font-weight: bold;
   margin-left: 175px;
 }
+
+.my_information {
+  padding_left: 20px;
+  font-weight: bold;
+}
+}

@@ -3,8 +3,8 @@
   text-transform: uppercase;
 }
 
-.page {
-  
+.header_tabs {
+  background-color: gray;
 }
 .header {
   background-color: black;

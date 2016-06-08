@@ -15,7 +15,7 @@
 }
 
 /*active tab color */
-.nav-tabs>li.active>a {
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
   background-color: 	#D0D0D0;
   color: black;
   

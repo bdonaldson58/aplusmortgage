@@ -5,6 +5,7 @@
 
 .header_tabs {
   background-color: gray;
+  border-bottom: none;
 }
 .header {
   background-color: black;
@@ -20,9 +21,7 @@
   font-size: 200%;
 }
 
-.bottom-header {
 
-}
 .page_title {
   padding: 20px 0px 20px 0px;
   text-align: center;

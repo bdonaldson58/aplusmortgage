@@ -20,6 +20,12 @@
   
 }
 
+/* hover tab color */
+.nav-tabs>li>a:hover {
+  background-color : #D0D0D0;
+  color: black;
+}
+
 .bottom-header {
   background-color: white;
   

@@ -10,8 +10,15 @@
 
 /*tab color */
 .nav-tabs>li>a {
-  background-color: gray;
+  background-color: black;
+  color: white;
+}
+
+/*active tab color */
+.nav-tabs>li.active>a, .nav-tabs>li-active>a:hover, .nav-tabs>li-active>a:focus {
+  background-color: white;
   color: black;
+  
 }
 
 .bottom-header {

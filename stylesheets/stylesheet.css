@@ -7,8 +7,9 @@
   background-color: gray;
 }
 
-.nav {
-  border-bottom: none;
+.bottom-header {
+  background-color: white;
+}
 }
 .header {
   background-color: black;

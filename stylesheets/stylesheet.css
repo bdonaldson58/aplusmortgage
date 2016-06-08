@@ -6,7 +6,9 @@
 .header_tabs {
   background-color: white;
 }
-  
+.nav-tabs {
+  background-color: yellow;
+} 
 }
 .bottom-header {
   background-color: white;

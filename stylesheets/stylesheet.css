@@ -5,6 +5,9 @@
 
 .header_tabs {
   background-color: gray;
+}
+
+.nav {
   border-bottom: none;
 }
 .header {

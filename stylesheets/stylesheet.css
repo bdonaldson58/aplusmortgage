@@ -8,7 +8,11 @@
   padding-right: 50px;
 }
 
-
+/*tab color */
+.nav-tabs>li>a {
+  background-color: gray;
+  color: black;
+}
 
 .bottom-header {
   background-color: white;

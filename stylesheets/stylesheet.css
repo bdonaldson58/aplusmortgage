@@ -5,10 +5,12 @@
 
 .header_tabs {
   background-color: gray;
+  float: right;
 }
 
 .bottom-header {
-  background-color: black;
+  background-color: white;
+  float: right;
 
 }
 

@@ -95,17 +95,32 @@
   font-weight: bold;
 }
 
+.glyphicon-earphone {
+    padding-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 
+.glyphicon-envelope {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 3px;
+  font-size: 100%;
+}
+
+.cell_phone {
+  padding-left: 100px;
+}
 /* Resume Page */
 
-.glyphicon {
-  font-size: 60%;
-
+.header_buttons {
+  vertical-align: center;
+  padding-top: 5px;
 }
 
 .resume {
   color: black;
-  height: 40px;
+  height: 50px;
   border-style: solid;
   border-width: 3px 0px 3px 0px;
   border-color: black;
@@ -171,7 +186,5 @@
   font-size: 120%;
 
 }
-
-
 
 

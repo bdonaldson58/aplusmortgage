@@ -108,10 +108,20 @@
   font-size: 100%;
 }
 
-.cell_phone {
-  padding-left: 100px;
-}
+
+
 /* Resume Page */
+
+.cell {
+  padding-left: 150px;
+}
+
+.email {
+  padding-right: 150px;
+}
+.linkedin {
+  padding-right: 225px;
+}
 
 .header_buttons {
   vertical-align: center;

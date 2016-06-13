@@ -54,27 +54,42 @@
   
   
   <p class="text-primary page_title"> <strong>Contact Me</strong></p>
-    <div class="my_information">
-  
-      <div class ="col-lg-5">
-        <div class="term"><p style="text-align:center">My Information</p></div>
-            <p class="form-title"></p>
-            <p> E-mail: BDonaldson58@gmail.com</p>
-            <p> LinkedIn: <a href=https://www.linkedin.com/in/brendan-donaldson-03637b120> LinkedIn Profile</a></p>
-            <p>Cell: 816-294-0432</p>
+    <div class="row container">
+    
+    <div class="col-lg-4"></div>
+
+    <div class="col-lg-6">
+    <form role= "form" class= "contact_me_form">
+      <div class="form-group">
+        <label for="first_name"> First Name: </label>
+        <input type="text" class="form-control" id="first_name">
+      </div>
+      <div class= "form-group">
+          <label for="last_name"> Last Name: </label>
+          <input type="text" class="form-control" id="last_name">
+      </div>
+        <div class="form-group">
+      <label for="email"> E-mail address:</label>
+      <input type="email" class="form-control" id="email">
+        </div>
+      <div class="form-group">
+        <label for="message"> Message: </label>
+        <textarea class="form-control" id= "comment" rows="5"></textarea>
+      </div>
+
+      <button type="submit" class="btn btn-primary">Submit </button>
     </div>
     
+
+
+
+
+    </form>
     
     
     
-    
-  <div class ="col-lg-5">
-    <div class="term"><p style="text-align:center">Send me a message</p></div>
-    <br>
-      <p class="form-title">First name:&nbsp;&nbsp;<input class="form-box" type="text" name="user-input"></input></p>
-      <p class="form-title">Last name:&nbsp;&nbsp;<input class="form-box" type="text" name="user-input"></input></p>
-      <p class="form-title">E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="form-box" type="text" name="user-input"></input></p>
-      <p class="form-title">Message:&nbsp;&nbsp;&nbsp;&nbsp;<textarea cols="50" rows="4" name="comment"></textarea></p>
+  
+
 
 </div>
     

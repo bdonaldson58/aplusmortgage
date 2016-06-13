@@ -1,6 +1,6 @@
 .btn {
   padding: 1px 20px;
-  text-transform: uppercase;
+  background-color: gray;
 }
 
 .header_tabs {
@@ -195,5 +195,13 @@
   padding: 20px 0px 0px 30px;
   color: black;
   font-size: 120%;
+
+}
+
+.form-control {
+  
+}
+
+.contact_me_form {
 
 }

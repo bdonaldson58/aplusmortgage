@@ -3,8 +3,10 @@
 }
 
 .header_tabs {
-  background-color: white;
+  background-color: #396390;
   padding-right: 15px;
+  border-bottom-color: black;
+
 }
 
 /*tab color */
@@ -13,21 +15,35 @@
   color: white;
 }
 
+
+.navbar-right {
+  border-bottom-color: black;
+
+}
+
+
 /*active tab color */
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
-  background-color: 	#D0D0D0;
+  background-color: 	floralwhite;
   color: black;
+  border-color:black;
+  border-width: 2px 2px 0px 2px;
   
 }
 
+
+
 /* hover tab color */
 .nav-tabs>li>a:hover {
-  background-color : #D0D0D0;
+  background-color : floralwhite;
   color: black;
+  border-color:black;
+  border-width: 2px 2px 0px 2px;
+
 }
 
 .bottom-header {
-  background-color: white;
+  background-color: #396390;
   
 
 }
@@ -38,11 +54,15 @@
   text-align: left;
   color: white;
   font-size: 200%;
-  height: 65px;
+  height: 75px;
   padding: 15px 0px 0px 50px;
 }
 
-
+.jumbotron {
+  background-color: #396390;
+  color: floralwhite;
+  padding: 70px 30px 70px 30px;
+}
 
 .page_title {
   padding: 20px 0px 20px 0px;

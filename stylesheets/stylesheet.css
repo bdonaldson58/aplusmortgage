@@ -61,14 +61,12 @@
 .jumbotron {
   background-color: #396390;
   color: floralwhite;
-  padding: 70px 30px 70px 30px;
+  padding: 60px 30px 60px 30px;
 }
 
 .page_title {
-  padding: 20px 0px 20px 0px;
   text-align: center;
-  font-size: 200%;
-  color: #131768;
+
 }
 
 }
@@ -137,7 +135,7 @@
   border-style: solid;
   border-width: 3px 0px 3px 0px;
   border-color: black;
-  padding-top: 3px;
+  padding-top: 5px;
   }
 
   .btn-toolbar {
@@ -165,6 +163,7 @@
   text-align: left;
   color: black;
   font-size: 130%;
+  background-color: green;
 }
 
 .section_year {
